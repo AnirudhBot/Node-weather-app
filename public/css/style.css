@@ -27,6 +27,7 @@ a {
 }
 
 .main-content {
+    color: white;
     flex-grow: 1;
     text-align: center;
 }
